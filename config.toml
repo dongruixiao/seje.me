@@ -1,7 +1,9 @@
-baseURL = "https://example.com"
+baseURL = "https://seje.me"
 languageCode = "en-us"
-title = "MEMO"
+title = "seje.me"
 theme = "minimal-bootstrap-hugo-theme"
+
+publishDir = "docs"
 
 [taxonomies]
   tag = "tags"
@@ -25,7 +27,7 @@ theme = "minimal-bootstrap-hugo-theme"
   customBlockquoteStyle = true
   showPostSummary = false
   googleAnalytics = "UA-123456789-1"
-  cookieConsent = true
+  cookieConsent = false
   includeBootstrapJs = false
   faviconSafariPinnedTabColor = "#5bbad5"
   faviconMsApplicationTileColor = "#da532c"

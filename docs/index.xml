@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>seje.me</title>
+    <link>https://seje.me/</link>
+    <description>Recent content on seje.me</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Apr 2022 15:30:27 +0800</lastBuildDate><atom:link href="https://seje.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://seje.me/about/</link>
+      <pubDate>Sat, 30 Apr 2022 15:37:51 +0800</pubDate>
+      
+      <guid>https://seje.me/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://seje.me/hello-world/</link>
+      <pubDate>Sat, 30 Apr 2022 15:30:27 +0800</pubDate>
+      
+      <guid>https://seje.me/hello-world/</guid>
+      <description>世界，你好！</description>
+    </item>
+    
+  </channel>
+</rss>
