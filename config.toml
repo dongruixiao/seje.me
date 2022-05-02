@@ -4,6 +4,7 @@ title = "seje.me"
 theme = "minimal-bootstrap-hugo-theme"
 
 publishDir = "docs"
+googleAnalytics = "G-Y40L13NJTG"
 
 [taxonomies]
   tag = "tags"
